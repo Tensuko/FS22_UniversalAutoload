@@ -181,7 +181,7 @@
             <options isLogTrailer="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="forestryPack/vehicles/schwarzmueller/timberTrailer/timberTrailer.xml">  
-            <loadingArea offset="0 1.6 -0.1" width="2.2" height="2.05" length="8.1" heightAxis="AXIS_FRONTLOADER_ARM"/>
+            <loadingArea offset="0 1.6 -0.02" width="2.2" height="2.05" length="8.2" heightAxis="AXIS_FRONTLOADER_ARM"/>
             <options isLogTrailer="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="forestryPack/vehicles/pfanzelt/rwgP13/rwgP13.xml" selectedConfigs="1">  

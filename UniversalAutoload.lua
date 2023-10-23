@@ -11,7 +11,7 @@ UniversalAutoload.showDebug = false
 UniversalAutoload.showLoading = false
 
 UniversalAutoload.delayTime = 200
-UniversalAutoload.logSpace = 0.25
+UniversalAutoload.logSpace = 0.15
 UniversalAutoload.maxLayerCount = 20
 UniversalAutoload.SPLITSHAPES_LOOKUP = {}
 
